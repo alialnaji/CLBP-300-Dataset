@@ -4,11 +4,17 @@ The **CLBP-300 Dataset** is a high-fidelity physiological resource designed for 
 
 ## 📊 Dataset Specifications
   **Subjects:** 300 adult participants (244 Males / 56 Females).
+  
   **Video Quality:** 300 HD recordings captured at 60 FPS.
+  
   **Hardware:** iPhone 16 Pro Max & Nikon D5300.
+  
   **Ground-Truth:** Synchronized Systolic (SYSBP), Diastolic (DIABP), and Heart Rate (HR).
+  
   **Environmental Diversity:** Indoor and outdoor settings with documented Lux values.
+  
   **Video Duration:** Each recording is approximately 30-60 seconds in length.
+  
   **Data Size:** Approximately 60 GB (Total).
 
   
