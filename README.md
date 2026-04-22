@@ -23,7 +23,7 @@ The **CLBP-300 Dataset** is a high-fidelity physiological resource designed for 
 ## ⚖️ Data Use Agreement (DUA)
 Access is granted for **non-commercial academic research only**. Users must sign the **DUA** and adhere to strict privacy protocols. No redistribution of raw video data is allowed.
 
-## 📬 Add Me & Professional Contact
+## 📬 Professional Contact
 For data access, academic collaborations, or to follow my latest research, please use the professional links below:
 
   🌐 Official Portal: (https://sites.google.com/view/clbp-300/home)
@@ -38,8 +38,19 @@ For data access, academic collaborations, or to follow my latest research, pleas
   
   🆔 ORCID: (https://orcid.org/0000-0002-8840-9235) 
   
-  
+  📝 Preprint Paper: (https://www.preprints.org/manuscript/202604.1079)
 
-## 📖 If you use this dataset, please cite:
-*Al-Naji, A., et al. "CLBP-300: A Real-World Video Dataset for Cuff-Less Blood Pressure Estimation via rPPG." Preprints 2026. Preprint Paper:(https://www.preprints.org/manuscript/202604.1079)
----
+## 📬 Important Note for Data Applicants
+Email: ali_al_naji@mtu.edu.iq
+
+Mobile (WhatsApp): +9647710304768
+
+To ensure your request for the CLBP-300 Dataset is processed, please adhere to the following when contacting us:
+
+Full Name: Provide the primary researcher's full name.
+
+Institutional Affiliation: State your university or research center.
+
+Official Email: Requests from personal email accounts will not be considered. You must use your official institutional or university email address.
+
+
