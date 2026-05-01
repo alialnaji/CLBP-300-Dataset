@@ -26,7 +26,7 @@ Access is granted for **non-commercial academic research only**. Users must sign
 ## 📬 Professional Contact
 For data access, academic collaborations, or to follow my latest research, please use the professional links below:
 
-  🌐 Official Portal: (https://sites.google.com/view/clbp-300/home)
+  🌐 Official Portal: (https://www.clbp300.org/)
   
   🎓 Google Scholar: (https://scholar.google.com.au/citations?user=ZquCTDMAAAAJ) 
   
