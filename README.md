@@ -3,11 +3,11 @@
 The **CLBP-300 Dataset** is a high-fidelity physiological resource designed for remote Photoplethysmography (rPPG) and non-contact blood pressure monitoring research.
 
 ## 📊 Dataset Specifications
-  **Subjects:** 300 adult participants (244 Males / 56 Females).
+  **Subjects:** 400 adult participants (289 Males / 111 Females).
   
-  **Video Quality:** 300 HD recordings captured at 60 FPS.
+  **Video Quality:** 400 HD recordings captured at 60 FPS.
   
-  **Hardware:** iPhone 16 Pro Max & Nikon D5300.
+  **Hardware:** iPhone 16 Pro Max, Nikon D5300 & Elgato Webcam 4K60.
   
   **Ground-Truth:** Synchronized Systolic (SYSBP), Diastolic (DIABP), and Heart Rate (HR).
   
@@ -15,7 +15,7 @@ The **CLBP-300 Dataset** is a high-fidelity physiological resource designed for 
   
   **Video Duration:** Each recording is approximately 30-60 seconds in length.
   
-  **Data Size:** Approximately 60 GB (Total).
+  **Data Size:** Approximately 83 GB (Total).
 
   
 
